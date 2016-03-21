@@ -1,2 +1,3 @@
 # customer-insights-fraud-detection
-A customer analysis project in which CRM data was analyzed to harness customer insights, identify fraudulent activities, to propose recommendations to mitigate losses to the company.
+A customer analysis project of an electrical power distribution company in which CRM data was analyzed to harness customer insights, identify fraudulent activities, to propose recommendations to mitigate losses to the company. 
+In this project, R and Tableau were used for data pre-processing, analysis and visualization. Data is analyzed on different dimensions (time, location (city, state, postal code)) to analyze customer behaviors. Using data analysis, it was found that how the behavior of normal customers and default customers vary and what steps can be taken to guide business decisions to mitigate such issues.
